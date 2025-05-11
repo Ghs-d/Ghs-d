@@ -54,7 +54,7 @@ Aberto a novos desafios e sempre buscando de mais conhecimento!
 - 👨‍💻 GitHub: [Ghs-d](https://github.com/Ghs-d)  
 - 🌱 Aprendizado atual: **Angular** e **.NET**  
 - 💡 Interesses: Desenvolvimento web, automação e matemática  
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-629862355/) | [Email](mailto:ghssantiago11@gmail.com)
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-629862355/) 
 
 ---
 
