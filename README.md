@@ -1,7 +1,6 @@
 # Guilherme | Apaixonado pelo mundo da tecnologia 💻🚀
 
 Olá! Me chamo Guilherme, um estudante mergulhado no universo da **programação**, com foco em **desenvolvimento Front-end e Back-end**.  
-Sempre em busca de evolução e apaixonado por criar projetos incríveis!
 
 ---
 ## Tecnologias em apredizados
