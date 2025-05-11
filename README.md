@@ -4,7 +4,7 @@ Olá! Me chamo Guilherme, um estudante mergulhado no universo da **programação
 Sempre em busca de evolução e apaixonado por criar projetos incríveis!
 
 ---
-#Tecnologias em apredizados
+## Tecnologias em apredizados
 ---
 
 ## 🌐 Front-end
