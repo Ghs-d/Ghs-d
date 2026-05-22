@@ -4,7 +4,6 @@ Olá! Me chamo Guilherme, um estudante de **programação**, com foco em **desen
 
 ---
 ## Tecnologias em apredizados
----
 
 ## 🌐 Front-end
 
